@@ -1,12 +1,13 @@
-- 👋 Hi, I’m Suman Shrestha.
-- 👀 I’m interested in Game Development and Unity.
-- 🌱 I’m currently learning unity.
-- 💞️ I’m looking to collaborate on game projects on unity.
-- 📫 You can mail me at stha.speed.suman07@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi, I'm Suman Shrestha
 
-<!---
-SumanShrestha07/SumanShrestha07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Passionate Game Developer specializing in Unity and interactive game systems.
+
+Intermediate Unity developer with hands-on experience in developing casino-style games like Slot, Fishing, Keno, and Crash etc.
+
+Skilled in building engaging gameplay mechanics, game logic, and player-focused experiences.
+
+Open to collaborating on Unity game projects and connecting with other game developers.
+
+Reach me at: stha.speed.suman07@gmail.com
+
+Connect with me on LinkedIn: https://www.linkedin.com/in/suman-stha-5b2377282/
